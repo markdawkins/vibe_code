@@ -1,5 +1,6 @@
 #### This script is an UPDATE over Version 4. This script does multiple hosts simultaenously and had multithreading up to 10 sessions #####
 ##Make sure to updated the commands below with the commands you need to use to collect data #####
+### Also a seed file is required for the IP addresses. I used a file called targethosts.csv and it is called out here but you can change of course. ####
 import paramiko
 import getpass
 import csv
