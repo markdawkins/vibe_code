@@ -50,7 +50,8 @@ def run_infoblox_commands():
                     "Error": error
                 })
                 time.sleep(1)
-
+                print(output) ###### Show output going to CSV here ####
+                print(' ')### To create space and make it more readable  
         print(f"\nResults successfully saved to {csv_filename}")
 
     except paramiko.AuthenticationException:
