@@ -39,7 +39,7 @@ def run_commands():
         shell.recv(65535)
 
         # Open CSV file
-        with open("changelog.csv", "w", newline="") as csvfile:
+        with open("changelog.csv", "a", newline="") as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(["Timestamp", "Hostname", "Command", "Output"])
 
