@@ -97,7 +97,7 @@ def main():
     password = getpass.getpass("Enter Password: ")
 
     # Open output CSV file for writing results
-    with open("changelog.csv", "w", newline="") as outfile:
+    with open("changelog.csv", "a", newline="") as outfile:
 
         writer = csv.writer(outfile)
 
