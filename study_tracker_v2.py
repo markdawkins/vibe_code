@@ -14,11 +14,11 @@ class StudyTracker:
         
         # Define subjects
         self.subjects = [
-            "Mathematics",
-            "Physics", 
-            "Chemistry",
-            "Biology",
-            "Computer Science"
+            "Cisco DevNet Associate (200-901 DEVASC)",
+            "AWS Certified Machine Learning Engineer (MLA-C01)", 
+            "Cisco Encore Enterprise (350-401) ",
+            "F5 Application Delivery Fundamentals (Exam 101)",
+            "Infoblox Admin"
         ]
         
         # Status options
