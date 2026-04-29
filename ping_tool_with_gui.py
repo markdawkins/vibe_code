@@ -1,3 +1,4 @@
+### Basic Ping tool with a gui  and CSV exports that help track connectvity  with relavant time stamps##############
 import csv
 import ipaddress
 import platform
