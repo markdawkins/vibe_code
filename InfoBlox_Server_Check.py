@@ -1,4 +1,4 @@
-#### This script is an UPDATE over Version 4. This script does multiple hosts simultaneously and had multithreading up to 10 sessions #####
+#### This script checks multiple hosts simultaneously and adds multithreading up to 10 sessions #####
 ##Make sure to updated the commands below with the commands you need to use to collect data #####
 ### Also a seed file is required for the IP addresses. I used a file called targethosts.csv and it is called out here but you can change of course. ####
 #### The output file ifb_check_status_log_SSHV5.csv file  can be renamed but it should be in ths folder unless you are pointing to some other well known file##
