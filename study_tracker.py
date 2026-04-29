@@ -1,3 +1,4 @@
+#############GUI BASED TOOL to Track study sessions and keep a record  multiple CSVs. To be imported at a later date to a db######
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import datetime
