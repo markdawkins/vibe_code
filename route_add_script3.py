@@ -62,7 +62,6 @@ def get_inputs():
         "ip_address": ip_address,
         "username": username,
         "password": password,
-        "enable_password": enable_password,
         "network": network,
         "subnet_mask": subnet_mask,
         "next_hop": next_hop,
@@ -96,7 +95,6 @@ def main():
         "host": data["ip_address"],
         "username": data["username"],
         "password": data["password"],
-        "secret": data["enable_password"],  # used by conn.enable() below
     }
 
     try:
