@@ -1,7 +1,7 @@
 #####Future Code Projects ####
 1. Create py script to update and restart nagios
 
-2. 
+2. Create a nagios update script to add a node to be monitored 
 
 
 #####Future agent projects to work on ####
