@@ -3,6 +3,8 @@
 
 2. Create a nagios update script to add a node to be monitored Done -10/6/26
 
+3. Daily task list constructed as a cron job that gets mailed to your work inbox every day with a list of tasks to to complete every day .
+
 
 #####Future agent projects to work on ####
 1. 
