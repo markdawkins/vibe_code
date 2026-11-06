@@ -6,9 +6,8 @@
 
 
 #####Future agent projects to work on ####
-1. 
+1. Create a sub folder with job samples to present
 
-2. 
 
 ### Future Network Upgrades. #####
 
